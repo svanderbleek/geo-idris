@@ -1,4 +1,5 @@
 # geo-idris
 try in idris
 
-- https://hal.archives-ouvertes.fr/hal-01282550/document
+- [From Tarski to Descartes: Formalization of the
+Arithmetization of Euclidean Geometry](https://hal.archives-ouvertes.fr/hal-01282550/document)
